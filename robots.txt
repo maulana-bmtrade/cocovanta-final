@@ -1,5 +1,8 @@
 User-agent: *
 Allow: /
 Disallow: /backend/
-Disallow: /V*-
+Disallow: /seo/
+Disallow: /V23-AUDIT-AND-RELEASE-NOTES-ID.md
+Disallow: /GITHUB-PAGES-PUBLISH-ID.md
+Disallow: /README.md
 Sitemap: https://cocovanta.web.id/sitemap.xml
