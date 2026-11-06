@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /backend/
+Disallow: /V*-
+Sitemap: https://cocovanta.web.id/sitemap.xml
